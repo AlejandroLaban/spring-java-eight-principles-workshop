@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b395b1a-8205-4a56-a0cd-23afc200a043" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot/target/" />
+    <ignored path="$PROJECT_DIR$/java-eight/target/" />
+    <ignored path="$PROJECT_DIR$/spring/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-all-in-one-demo/target/" />
+    <ignored path="$PROJECT_DIR$/java-seven/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-java8-principles</find>
+      <find>ProductDto</find>
+      <find>Objec</find>
+      <find>String</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>spring-java8-principles-parent</replace>
+      <replace>String</replace>
+      <replace>Object</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/java-eight/pom.xml" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/improvements/FunctionalEightImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/introbackend/improvements/FunctionalEightImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/introbackend/FunctionalEightImprovementTest.java" />
+        <option value="$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/introbackend/introbackend/product/mapper/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-all-in-one-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/introbackend/SevenImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/introbackend/improvement/seven/SevenImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/introbackend/improvement/seven/DiamondImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/introbackend/improvement/seven/MultipleExceptionImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/improvement/seven/MultipleExceptionImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/test/java/com/alejandrolaban/backend/principles/java/seven/improvement/FunctionalEightImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/seven/improvement/eight/FunctionalEightImprovementTest.java" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/java-seven/src/main/com.alejandrolaban.backend.principles.java.seven.service/Serviceimpl.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/main/com.alejandrolaban.backend.principles.java.seven.service/ServiceJavaSeven.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/Service.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/FunctionalEightImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/main/com.alejandrolaban.backend.principles.java.seven.service/ServiceJavaSevenimpl.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/test/java/com/alejandrolaban/backend/principles/java/seven/service/ServiceJavaSeven.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/main/java/com.alejandrolaban.backend.principles.java.seven.service/ServiceJavaSeven.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/main/java/com.alejandrolaban.backend.principles.java.seven.service/ServiceJavaSevenimpl.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/main/java/com.alejandrolaban.backend.principles.java.seven.service/ServiceJavaSevenImpl.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementPrimitive.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/test/java/com/alejandrolaban/backend/principles/java/seven/improvement/MultipleExceptionImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementAsInvalidFuntionalInterface.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/test/java/com/alejandrolaban/backend/principles/java/seven/improvement/DiamondImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementWithPrimitive.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementWithoutAnnotation.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementAsNonValidFunctionalInterface.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrement.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/ForEachImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/LambdaImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/NoImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/FunctionalInterfaceImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-seven/src/main/java/com.alejandrolaban.backend.principles.java.seven.service/ServiceJavaSevenWithoutMultipleExceptionImpl.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementAsNonValidFunctionalInterfaceWithDefault.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/ForEachWithCollectorImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/StreamWithMapAndCollectImprovementTest.java" />
+        <option value="$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/AllInOneImprovementTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="940" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="java-eight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="java-eight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="java-eight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="java-eight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="java-eight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="java-eight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="java-eight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="java-eight" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="restresource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-java8-principles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-java8-principles" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-all-in-one-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556262532009" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alejandrolaban.backend.principles.java.eight" />
+      <recent name="com.alejandrolaban.backend.principles.java.eight.service" />
+      <recent name="com.alejandrolaban.backend.principles.java.seven.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.alejandrolaban.backend.principles.java.eight" />
+      <recent name="com.alejandrolaban.introbackend" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-seven/src/main/com.alejandrolaban.backend.principles.java.seven.service" />
+      <recent name="$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/introbackend" />
+      <recent name="$PROJECT_DIR$/java-eight/src/test/java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.alejandrolaban.backend.principles.java.seven.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-seven/src/main/java" />
+      <recent name="$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/resources" />
+      <recent name="$PROJECT_DIR$/java-eight/src/test/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="spring-java8-principles-parent" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="spring-java8-principles-parent" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b395b1a-8205-4a56-a0cd-23afc200a043" name="Default Changelist" comment="" />
+      <created>1556252471562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556252471562</updated>
+      <workItem from="1556252472701" duration="10029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10029000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26894343" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" weight="0.32977587" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alejandrolaban/introbackend/improvements/FunctionalEightImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alejandrolaban/introbackend/improvements/SevenImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alejandrolaban/introbackend/improvements/SevenImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alejandrolaban/introbackend/improvements/FunctionalEightImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/product/service/DummyProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/product/dto/ProductRequest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/product/rest/ProductRest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/product/repository/ProductRespository.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/product/service/ExternalProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/product/dto/ProductDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/product/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/spring-boot-all-in-one-demo.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/client/HttpServerErrorException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="112" column="24" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-seven/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/Serviceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.4/lombok-1.18.4-sources.jar!/lombok/extern/slf4j/Slf4j.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1487">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-seven/java-seven.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-seven/src/test/java/com/alejandrolaban/backend/principles/java/seven/service/ServiceJavaSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk/jdk-8u192-linux-x64/jdk1.8.0_192/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/java-eight.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementWithPrimitive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementWithoutAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementAsNonValidFunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-seven/src/test/java/com/alejandrolaban/backend/principles/java/seven/improvement/DiamondImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-seven/src/test/java/com/alejandrolaban/backend/principles/java/seven/improvement/MultipleExceptionImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-seven/src/main/java/com.alejandrolaban.backend.principles.java.seven.service/ServiceJavaSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-seven/src/main/java/com.alejandrolaban.backend.principles.java.seven.service/ServiceJavaSevenImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-seven/src/main/java/com.alejandrolaban.backend.principles.java.seven.service/ServiceJavaSevenWithoutMultipleExceptionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/main/java/com/alejandrolaban/backend/principles/java/eight/service/CustomIncrementAsNonValidFunctionalInterfaceWithDefault.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/AllInOneImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="87" lean-forward="true" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/LambdaImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/NoImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/StreamWithMapAndCollectImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/ForEachImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-eight/src/test/java/com/alejandrolaban/backend/principles/java/eight/FunctionalInterfaceImprovementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/config/BeanConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/IntroBackEndApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/product/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-all-in-one-demo/src/main/java/com/alejandrolaban/backend/principles/demo/product/service/JpaProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-seven</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
