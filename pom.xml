@@ -14,7 +14,6 @@
         <module>spring-boot</module>
         <module>spring-boot-all-in-one-demo</module>
         <module>java-seven</module>
-        <module>common</module>
     </modules>
 
     <properties>
