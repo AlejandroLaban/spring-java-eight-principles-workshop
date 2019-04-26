@@ -13,4 +13,8 @@ public interface ProductService {
         return new ProductDto();
     }
 
+    default Object getProperties(){
+        return "response from a default method";
+    }
+
 }

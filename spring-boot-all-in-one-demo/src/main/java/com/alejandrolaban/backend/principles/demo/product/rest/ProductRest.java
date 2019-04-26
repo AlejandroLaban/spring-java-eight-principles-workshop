@@ -30,4 +30,9 @@ public class ProductRest {
         return productService.getProductDto(productRequest.getId().longValue());
     }
 
+
+    @RequestMapping(name = "property", method = RequestMethod.GET)
+    public ProductDto getProperties(ProductRequest productRequest) {
+        return productService.getProductDto(productRequest.getId().longValue());
+    }
 }
